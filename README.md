@@ -2,7 +2,7 @@
   📝📚 Api RocketNotes - App de Anotações
 </h1>
 
-## :rocket: Sobre o projeto
+## 🚀 Sobre o projeto
 
 Este é um projeto desenvolvido para a aplicação RocketNotes.
 
@@ -14,11 +14,11 @@ Também foi utilizado o pm2 para manter a resiliência da aplicação publicada 
 
 Outro desafio e uma novidade para meu aprendizado nesse projeto foi o trabalho com imagens e a forma como salvamos esses dados, foi utilizado o multer
 
-## :link: Link público do projeto:
+## 🔗 Link público do projeto:
 
 https://rocketnotes-backend-8dgi.onrender.com
 
-## :bulb: Tecnologias usadas:
+## 💡 Tecnologias usadas:
 
 - `Node js`
 - `express`
@@ -28,7 +28,7 @@ https://rocketnotes-backend-8dgi.onrender.com
 - `pm2`
 - `multer`
 
-## :gear: Como rodar o Projeto Localmente:
+## 💻 Como rodar o Projeto Localmente:
 
 -Para instalar todas as bibliotecas usadas no projeto rode o comando:
 
